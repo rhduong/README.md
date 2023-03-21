@@ -1,12 +1,9 @@
 ### Welcome to my profile! 👋
 
+
 Nice to meet you! My name is Ryan Duong, and I am currently working towards a Bachelor's degree in **Management Information Systems** at San Diego State University. In addition, I am also pursuing a minor in **Computer Science**.
 
 - At the current moment, I am learning **Python** and **JavaScript**! 
-
-Follow me on my journey in computer programming!
-
-
 
 
 
@@ -36,5 +33,11 @@ Follow me on my journey in computer programming!
   <a style="font-weight: bold" href="https://www.linkedin.com/in/ryanhduong/"> LinkedIn </a>
 </b>
 
+<br>
+<br>
+
+```bash
+print("Follow me on my journey in computer programming!")
+```
 
 
