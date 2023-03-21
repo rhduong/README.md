@@ -7,7 +7,7 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
 
 
 
-### Technologies 
+### Technology 
 
 <img src="https://user-images.githubusercontent.com/109021644/226749288-461f0b4e-7fce-4b22-b5dd-d9efe09026d9.png" height="110">
 
