@@ -2,7 +2,7 @@
 
 Nice to meet you! My name is Ryan Duong, and I am currently working towards a Bachelor's degree in **Management Information Systems** at San Diego State University. In addition, I am also pursuing a minor in **Computer Science**.
 
-At the current moment, I am learning **Python** and **JavaScript**! 
+- At the current moment, I am learning **Python** and **JavaScript**! 
 
 
 
