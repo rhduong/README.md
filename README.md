@@ -4,6 +4,8 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
 
 - At the current moment, I am learning **Python** and **JavaScript**! 
 
+Follow me on my journey in computer programming!
+
 
 
 
