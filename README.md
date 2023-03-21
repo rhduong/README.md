@@ -7,12 +7,10 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
 
 
 
-### Technologies
+### Technologies 
 
-
-
-<p align="left">
-  <br>
+<br>
+<p>
   <img src="https://user-images.githubusercontent.com/109021644/226516732-9255ca2a-31c5-4a3a-ab12-d6f49407d5a3.svg" width="60">
   <img src="https://user-images.githubusercontent.com/109021644/226517154-567fa87b-9076-4886-ab23-e169ac407244.svg" width="60">
   <img src="https://user-images.githubusercontent.com/109021644/226517210-d437fbbb-a9c4-4470-b890-89e28eb0d376.svg" width="60">
@@ -24,12 +22,15 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
   <img src="https://user-images.githubusercontent.com/109021644/226517517-1dea6463-87cf-411d-8588-4fa01991d60b.svg" width="60">
   <img src="https://user-images.githubusercontent.com/109021644/226517533-87a61a25-5cc8-4579-b326-7c962f09c339.svg" width="60">
   <img src="https://user-images.githubusercontent.com/109021644/226523142-0bd7fb73-c8b9-4bce-8a2b-d21ed83c120d.svg" width="60">
-</p>
+<p>
+
+
 
 ### Contact
 
 <b>
-  <a style="font-weight: bold" href="mailto:ryannduong@gmail.com"> Email‎ ‎ ‎ ‎ ‎ ‎ </a>
+  <a style="font-weight: bold" href="mailto:ryannduong@gmail.com"> Email </a>
+  &nbsp;
   <a style="font-weight: bold" href="https://www.linkedin.com/in/ryanhduong/"> LinkedIn </a>
 </b>
 
