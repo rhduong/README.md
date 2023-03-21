@@ -1,4 +1,4 @@
-## Welcome to my profile! 👋
+### Welcome to my profile! 👋
 
 Nice to meet you! My name is Ryan Duong, and I am currently working towards a Bachelor's degree in **Management Information Systems** at San Diego State University. In addition, I am also pursuing a minor in **Computer Science**.
 
