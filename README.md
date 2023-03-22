@@ -10,8 +10,7 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
 
 ### Technology 
 
-<img src="https://user-images.githubusercontent.com/109021644/226749288-461f0b4e-7fce-4b22-b5dd-d9efe09026d9.png" height="110">
-
+<img src="https://user-images.githubusercontent.com/109021644/226778073-fd94e949-1bf5-4a8a-9ead-c91b2ec085a1.png" height="110">
 
 
 
