@@ -21,6 +21,8 @@ Nice to meet you! My name is Ryan Duong, and I am currently working towards a Ba
   <a style="font-weight: bold" href="mailto:ryannduong@gmail.com"> Email </a>
   &nbsp;
   <a style="font-weight: bold" href="https://www.linkedin.com/in/ryanhduong/"> LinkedIn </a>
+  &nbsp;
+  <a style="font-weight: bold" href="https://www.twitch.tv/ryanhduong"> Twitch </a>
 </b>
 
 <br>
